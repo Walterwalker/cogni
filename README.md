@@ -1,1 +1,1 @@
-# cogni
+This natural language system is using the dataset which was scraped from Tangerine website. To provide accurate location distance, the scraped data was geocoded for latitude and longitudes and geopy and geocode apps are being used. This can locate nearby tangerine atm's in ontario when a user says his pincode or address.
