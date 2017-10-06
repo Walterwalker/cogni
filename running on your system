@@ -1,0 +1,2 @@
+Hi, to run this source code on your system you need to set a google cloud platform account, then you have to create JSON credentials for that
+and use them here instead of GCS which has my credentials. I strongly suggest you to install Google cloud console on your system for this purpose.
